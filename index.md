@@ -14,3 +14,4 @@ nav_exclude: true
 - [Béarnaise](opskrifter/bearnaise-sous-vide)
 - [Béarnaise essens](opskrifter/bearnaise-essens)
 - [Pulled Pork](opskrifter/pulled-pork-sous-vide)
+- [Æg](opskrifter/aeg)

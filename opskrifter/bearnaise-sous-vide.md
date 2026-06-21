@@ -9,15 +9,16 @@ nav_order: 2
 
 | Mængde | Ingrediens |
 |--------|-----------|
-| 4 | Æggeblommer |
+| 2 | Æggeblommer |
 | 200 g | Smør |
-| 4 spsk | [Béarnaise essens](bearnaise-essens) evt.  [færdiglavet](https://www.google.com/search?q=beavais+bernaise+essens) |
+| 2 spsk | [Béarnaise essens](bearnaise-essens) evt.  [færdiglavet](https://www.google.com/search?q=beavais+bernaise+essens) |
+| 2 spsk | Tørret estragon eller 4 spsk frisk |
 
 ## Tid og temperatur
 
 | Temperatur | Tid |
 |------------|-----|
-| 57 °C | 45 min |
+| 57 °C | ca. 45 min |
 
 ## Fremgangsmåde
 
@@ -33,6 +34,6 @@ nav_order: 2
 10. Vrik derefter stavblenderen lidt — stadig på bunden ved max hastighed — og bliv ved, til béarnaise stiger op til overfladen.
 11. Når det meste er emulgeret: hæld glasset forsigtigt til siden og kør langs kanten for at få det sidste smør med.
 12. Tag stavblenderen op og tilsæt estragon efter behov (ca. 1 spsk tørret eller 2 spsk frisk).
-13. Blend en esktra omgang, mens blenderen bvæges op og ned. Lad den lige komme op til overfladen og "suge" lidt luft (pas på det kan spøjte).
+13. Blend en ekstra omgang, mens blenderen bevæges op og ned. Lad den lige komme op til overfladen og "suge" lidt luft (pas på det kan spøjte).
 14. Server straks.
 15. Rester kan opbevares i køleskabet og bruges som bernaisesmør.

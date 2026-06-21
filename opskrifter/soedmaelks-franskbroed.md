@@ -5,7 +5,7 @@ parent: Opskrifter
 nav_order: 8
 ---
 
-Program: 1 (ca. 3 timer)
+Program: 1 (ca. 3 timer) — Alpina brødmaskine
 
 **Må kun bages i brødstørrelse 500g — ellers bliver det for stort.**
 

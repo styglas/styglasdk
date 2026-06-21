@@ -7,11 +7,13 @@ tags: [svinekød, rub, langtidstilberedning]
 ## Ingredienser
 
 ### Kød
+
 | Mængde | Ingrediens |
 |--------|-----------|
 | 1,5 kg | Svinekam eller nakkefilet |
 
 ### Rub
+
 | Mængde | Ingrediens |
 |--------|-----------|
 | 2 spsk | Røget paprika |

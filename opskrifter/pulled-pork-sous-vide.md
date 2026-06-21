@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pulled Pork Sous Vide
+title: Pulled Pork
 parent: Opskrifter
 nav_order: 4
 ---

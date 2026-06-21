@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Béarnaise Sous Vide (med essens)
+title: Béarnaise
 parent: Opskrifter
 nav_order: 2
 ---

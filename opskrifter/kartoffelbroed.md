@@ -5,7 +5,12 @@ parent: Opskrifter
 nav_order: 7
 ---
 
-Program: 1 (ca. 3 timer) — Alpina brødmaskine
+## Konfiguration
+
+| | |
+|---|---|
+| Program | 1 (ca. 3 timer) — Alpina brødmaskine |
+| Forsinket start | Nej |
 
 ## Flydende ingredienser
 

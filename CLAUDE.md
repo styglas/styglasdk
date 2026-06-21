@@ -58,10 +58,15 @@ Then content sections (all in Danish):
 
 ## Adding a bread machine recipe
 
-Bread machine recipes use a different layout: no `## Fremgangsmåde`, and ingredients split by liquid/dry with columns for each size.
+Bread machine recipes use a different layout: no `## Fremgangsmåde`, a `## Konfiguration` table first, then ingredients split by liquid/dry with columns for each size.
 
 ```markdown
-Program: 1 (ca. 3 timer) — Alpina brødmaskine
+## Konfiguration
+
+| | |
+|---|---|
+| Program | 1 (ca. 3 timer) — Alpina brødmaskine |
+| Forsinket start | Ja/Nej/Muligt |
 
 ## Flydende ingredienser
 
@@ -90,7 +95,7 @@ If only one size is supported, use a single column and note the restriction in b
 ## Git
 
 - Commit messages: single line only, no body, no `Co-Authored-By`
-- After each push: wait for the GitHub Actions build to complete (`gh run list --repo styglas/styglasdk --limit 1`) and confirm the deploy succeeded before reporting done.
+- After each push: wait for deploy to complete with `gh run watch --repo styglas/styglasdk $(gh run list --repo styglas/styglasdk --limit 1 --json databaseId --jq '.[0].databaseId')` before reporting done.
 
 ## Adding a new section (future)
 

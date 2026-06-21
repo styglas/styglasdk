@@ -1,7 +1,8 @@
 ---
-title: "Pulled Pork Sous Vide"
-categories: [Opskrifter, Sous Vide]
-tags: [svinekød, rub, langtidstilberedning]
+layout: default
+title: Pulled Pork Sous Vide
+parent: Opskrifter
+nav_order: 4
 ---
 
 ## Ingredienser
@@ -25,9 +26,10 @@ tags: [svinekød, rub, langtidstilberedning]
 | ½ tsk | Cayennepeber |
 
 ## Tilbehør
+
 - Coleslaw
 - Burgerboller
-- Barbecue sauce: ketchup+rub (ca. 1 dl ketchup + 1 spsk rub)
+- Barbecue sauce: ketchup + rub (ca. 1 dl ketchup + 1 spsk rub)
 
 ## Tid og temperatur
 

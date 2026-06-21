@@ -1,7 +1,8 @@
 ---
-title: "Crème Brûlée Sous Vide"
-categories: [Opskrifter, Sous Vide]
-tags: [dessert, fløde, æg]
+layout: default
+title: Crème Brûlée Sous Vide
+parent: Opskrifter
+nav_order: 1
 ---
 
 ## Ingredienser
@@ -11,7 +12,7 @@ tags: [dessert, fløde, æg]
 | 500 ml | Piskefløde |
 | 6 | Æggeblommer |
 | 70 g | Sukker |
-| 1 | Vaniljestang  |
+| 1 | Vaniljestang |
 | 4 spsk | Sukker (til karamelisering) |
 
 ## Tid og temperatur
@@ -22,7 +23,7 @@ tags: [dessert, fløde, æg]
 
 ## Fremgangsmåde
 
-1. Bland æggeblommer, sukker, vaniljekerne og fløde i en skål. 
+1. Bland æggeblommer, sukker, vaniljekerne og fløde i en skål.
 2. Blend det godt sammen med en stavblender, så det er helt ensartet.
 3. Filtrer blandingen gennem en finmasket sigte.
 4. Fordel i 4 patentglas.

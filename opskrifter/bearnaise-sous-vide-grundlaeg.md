@@ -1,7 +1,8 @@
 ---
-title: "Béarnaise Sous Vide (fra bunden)"
-categories: [Opskrifter, Sous Vide]
-tags: [sauce, smør, æg, estragon]
+layout: default
+title: Béarnaise Sous Vide (fra bunden)
+parent: Opskrifter
+nav_order: 3
 ---
 
 ## Ingredienser

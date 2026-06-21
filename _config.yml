@@ -1,0 +1,94 @@
+title: Styglas KB
+tagline: No-bs opskrifter og noter
+description: Personlig videnbase uden fnidder.
+url: "https://styglas.dk"
+baseurl: ""
+lang: da
+timezone: Europe/Copenhagen
+
+theme_mode: dark
+theme: jekyll-theme-chirpy
+
+avatar: ""
+
+github:
+  username: styglas
+
+social:
+  name: Styglas
+  links: []
+
+paginate: 10
+
+# Chirpy
+toc: true
+comments:
+  active: ""
+
+assets:
+  self_host:
+    enabled: false
+
+pwa:
+  enabled: false
+
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+  - scope:
+      path: "_tabs"
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - "*.config.js"
+  - package*.json
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

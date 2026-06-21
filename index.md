@@ -15,3 +15,6 @@ nav_exclude: true
 - [Béarnaise essens](opskrifter/bearnaise-essens)
 - [Pulled Pork](opskrifter/pulled-pork-sous-vide)
 - [Æg](opskrifter/aeg)
+- [Havregrynsbrød](opskrifter/havregrynsbroed)
+- [Kartoffelbrød](opskrifter/kartoffelbroed)
+- [Sødmælks-franskbrød](opskrifter/soedmaelks-franskbroed)

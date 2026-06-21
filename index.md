@@ -10,7 +10,7 @@ nav_exclude: true
 
 ## Opskrifter
 
-- [Crème Brûlée Sous Vide](opskrifter/creme-brulee-sous-vide)
-- [Béarnaise Sous Vide](opskrifter/bearnaise-sous-vide)
+- [Crème Brûlée](opskrifter/creme-brulee-sous-vide)
+- [Béarnaise](opskrifter/bearnaise-sous-vide)
 - [Béarnaise essens](opskrifter/bearnaise-essens)
-- [Pulled Pork Sous Vide](opskrifter/pulled-pork-sous-vide)
+- [Pulled Pork](opskrifter/pulled-pork-sous-vide)

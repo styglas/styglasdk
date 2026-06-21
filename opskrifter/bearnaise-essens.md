@@ -27,4 +27,4 @@ nav_order: 3
 1. Kom skalotteløg, eddike, hvidvin og halvdelen af estragonkvistene i en lille kasserolle.
 2. Reducer ved middel varme til ca. 3 spsk væske. 
 3. Si og lad køle til stuetemperatur.
-4. Følg opskriften på [Béarnaise Sous Vide](bearnaise-sous-vide) 
+4. Følg opskriften på [Béarnaise](bearnaise-sous-vide) 

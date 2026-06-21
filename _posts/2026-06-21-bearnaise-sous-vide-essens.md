@@ -11,19 +11,22 @@ tags: [sauce, smør, æg]
 | 4 | Æggeblommer |
 | 200 g | Smør |
 | 4 spsk | Béarnaise essens |
-| ½ tsk | Salt |
 
 ## Tid og temperatur
 
 | Temperatur | Tid |
 |------------|-----|
-| 63 °C | 30 min |
+| 57 °C | 45 min |
 
 ## Fremgangsmåde
 
-1. Smelt smørret og lad det køle lidt.
-2. Bland æggeblommer og béarnaise essens i et sylteglas — rør godt.
-3. Sous vide 63 °C i 30 min.
-4. Tag glasset op — massen skal være tyknet og cremet.
-5. Tilsæt det smeltede smør lidt ad gangen mens du rører eller stavblender.
-6. Smag til med salt. Server straks eller hold varm i vandbadet ved 55 °C.
+1. Kom æggeblommer, essens og smør i et patentglas.
+2. Sæt glasset i sous vide badet — det skal være dækket af vand.
+3. **Luftbobler i glasset: ingen grund til panik** — de forsvinder.
+4. Varm op ved 57 °C i ca. 45 min, til smørret er helt smeltet.
+5. Sænk stavblenderen ned i badet de sidste minutter, så den opvarmes sammen med resten.
+6. Tag glasset op — **pas på: det er varmt**.
+7. Sænk stavblenderen langsomt ned i glasset og start på bunden med max hastighed.
+8. Hold stavblenderen på bunden i ca. 45 sekunder uden at løfte den.
+9. Vrik derefter forsigtigt frem og tilbage — stadig på bunden og stadig kørende — og bliv ved, til béarnaise stiger op fra bunden.
+10. Når det meste er emulgeret: hæld glasset forsigtigt til siden og kør langs kanten for at få det sidste smør med.

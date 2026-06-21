@@ -90,6 +90,7 @@ If only one size is supported, use a single column and note the restriction in b
 ## Git
 
 - Commit messages: single line only, no body, no `Co-Authored-By`
+- After each push: wait for the GitHub Actions build to complete (`gh run list --repo styglas/styglasdk --limit 1`) and confirm the deploy succeeded before reporting done.
 
 ## Adding a new section (future)
 

@@ -95,6 +95,7 @@ If only one size is supported, use a single column and note the restriction in b
 ## Git
 
 - Commit messages: single line only, no body, no `Co-Authored-By`
+- **Do not commit or push unless explicitly asked or confirmed by the user.** Offer to commit/push when the work reaches a natural stopping point.
 - After each push: wait for deploy to complete with `gh run watch --repo styglas/styglasdk $(gh run list --repo styglas/styglasdk --limit 1 --json databaseId --jq '.[0].databaseId')` before reporting done.
 
 ## Adding a new section (future)

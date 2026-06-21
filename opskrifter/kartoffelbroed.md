@@ -14,7 +14,8 @@ Program: 1 (ca. 3 timer) — Alpina brødmaskine
 | Vand eller mælk | 260ml | 170ml |
 | Æg | 1 stk. | 1 stk. |
 | Olie | 20g | 25g |
-| Kogte, mosede kartofler | 120g | 80g |
+| Kartoffelmospulver | 40g | 26g |
+| Vand | 80g | 52g |
 
 ## Tørre ingredienser
 

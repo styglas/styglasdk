@@ -56,12 +56,40 @@ Then content sections (all in Danish):
 1. ...
 ```
 
+## Adding a bread machine recipe
+
+Bread machine recipes use a different layout: no `## Fremgangsmåde`, and ingredients split by liquid/dry with columns for each size.
+
+```markdown
+Program: 1 (ca. 3 timer) — Alpina brødmaskine
+
+## Flydende ingredienser
+
+| Ingrediens | 750g | 500g |
+|-----------|------|------|
+| Vand | 280ml | 180ml |
+
+## Tørre ingredienser
+
+| Ingrediens | 750g | 500g |
+|-----------|------|------|
+| Hvedemel | 350g | 225g |
+```
+
+If only one size is supported, use a single column and note the restriction in bold before the table.
+
 ## Content conventions
 
 - **No BS** — ingredients, time, temperature, steps only. No intro text or backstory.
 - **Measurements**: metric (g, ml, dl) or spoons (tsk = teaspoon, spsk = tablespoon)
 - **Tables need a blank line** before them when following a heading (Kramdown requirement)
 - `nav_order` controls sidebar order within a section — set sequentially
+- **Link texts must match the target page's `title:`** exactly
+- **Filenames**: use ASCII — replace æ→ae, ø→oe, å→aa (e.g. `kartoffelbroed.md`, `aeg.md`)
+
+## Git
+
+- Commit messages: single line only, no body, no `Co-Authored-By`
 
 ## Adding a new section (future)
 

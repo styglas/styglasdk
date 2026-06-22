@@ -5,7 +5,7 @@ parent: Opskrifter
 nav_order: 9
 ---
 
-Ca. 75 g pr. dl (jasmin/basmati). Forhold: 2 dl ris til 3 dl vand.
+Ca. 75 g pr. dl (jasmin/basmati). Forhold: 2 dl ris til 3 dl vand eller 200g ris til 400g vand. 
 
 | Ris (g) | Ris (dl) | Vand (dl) |
 |---------|----------|-----------|
@@ -19,3 +19,24 @@ Ca. 75 g pr. dl (jasmin/basmati). Forhold: 2 dl ris til 3 dl vand.
 | 800 | 10.7 | 16 |
 | 900 | 12 | 18 |
 | 1000 | 13.3 | 20 |
+
+## Højde og kogetid
+
+| Højde (m) | Højde (ft) | Kogepunkt (°C) | Kogepunkt (°F) | Basis 10 | Basis 12 | Basis 15 | Basis 20 |
+|-----------|------------|----------------|----------------|----------|----------|----------|----------|
+| 0 | 0 | 100.0 | 212.0 | 10 | 12 | 15 | 20 |
+| 200 | 656 | 99.3 | 210.7 | 11 | 13 | 16 | 21 |
+| 400 | 1312 | 98.6 | 209.5 | 11 | 13 | 16 | 21 |
+| 600 | 1969 | 97.9 | 208.2 | 12 | 14 | 17 | 22 |
+| 800 | 2625 | 97.2 | 207.0 | 13 | 15 | 18 | 23 |
+| 1000 | 3281 | 96.5 | 205.7 | 13 | 15 | 18 | 23 |
+| 1200 | 3937 | 95.8 | 204.4 | 14 | 16 | 19 | 24 |
+| 1400 | 4593 | 95.1 | 203.2 | 15 | 17 | 20 | 25 |
+| 1600 | 5249 | 94.4 | 201.9 | 15 | 17 | 20 | 25 |
+| 1800 | 5906 | 93.7 | 200.7 | 16 | 18 | 21 | 26 |
+| 2000 | 6562 | 93.0 | 199.4 | 17 | 19 | 22 | 27 |
+| 2200 | 7218 | 92.3 | 198.1 | ej muligt | ej muligt | ej muligt | ej muligt |
+| 2400 | 7874 | 91.6 | 196.9 | ej muligt | ej muligt | ej muligt | ej muligt |
+| 2600 | 8530 | 90.9 | 195.6 | ej muligt | ej muligt | ej muligt | ej muligt |
+| 2800 | 9186 | 90.2 | 194.4 | ej muligt | ej muligt | ej muligt | ej muligt |
+| 3000 | 9843 | 89.5 | 193.1 | ej muligt | ej muligt | ej muligt | ej muligt |

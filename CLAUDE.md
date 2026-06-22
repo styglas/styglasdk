@@ -102,11 +102,14 @@ If only one size is supported, use a single column and note the restriction in b
 
 Create `<section>/index.md` with `nav_order: <N>` (no `parent:`), then add child pages with `parent: <Section title>`.
 
-## Local preview (optional)
+## Local preview (Docker)
 
 ```bash
-bundle install
-bundle exec jekyll serve
+# First time, or after Gemfile changes:
+docker compose build
+
+# Start the server:
+docker compose up
 ```
 
-Requires Ruby 3.3+ and Bundler.
+Open http://localhost:4000. Edits to `.md` files are picked up automatically — the browser reloads via livereload. `Ctrl+C` to stop.

@@ -2,7 +2,7 @@
 layout: default
 title: Sødmælks-franskbrød
 parent: Opskrifter
-nav_order: 8
+nav_order: 9
 ---
 
 ## Konfiguration

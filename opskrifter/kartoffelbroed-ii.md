@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kartoffelbrød
+title: Kartoffelbrød II
 parent: Opskrifter
 nav_order: 7
 ---
@@ -19,8 +19,8 @@ nav_order: 7
 | Vand eller mælk | 260ml | 170ml |
 | Æg | 1 stk. | 1 stk. |
 | Olie | 20g | 25g |
-| Kartoffelmospulver | 40g | 26g |
-| Vand | 80g | 52g |
+| Kartoffelmospulver | 40g | 27g |
+| Vand | 80g | 56g |
 
 ## Tørre ingredienser
 
@@ -30,3 +30,5 @@ nav_order: 7
 | Sukker | 22g | 15g |
 | Salt | 1 tsk. | 1 tsk. |
 | Gær | 2 tsk. | 2 tsk. |
+
+Flydende ingredienser blendes med stavblender.

@@ -16,5 +16,5 @@ nav_exclude: true
 - [Pulled Pork](opskrifter/pulled-pork-sous-vide)
 - [Æg](opskrifter/aeg)
 - [Havregrynsbrød](opskrifter/havregrynsbroed)
-- [Kartoffelbrød](opskrifter/kartoffelbroed)
+- [Kartoffelbrød II](opskrifter/kartoffelbroed-ii)
 - [Sødmælks-franskbrød](opskrifter/soedmaelks-franskbroed)

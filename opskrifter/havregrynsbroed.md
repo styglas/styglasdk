@@ -14,19 +14,19 @@ nav_order: 6
 
 ## Flydende ingredienser
 
-| Ingrediens | 750g | 500g |
-|-----------|------|------|
-| Vand | 280ml | 180ml |
-| Rapsolie | 20g | 15g |
-| Olivenolie | 10g | 7g |
+| Ingrediens | 900g | 750g | 500g |
+|-----------|------|------|------|
+| Vand | 336ml | 280ml | 180ml |
+| Rapsolie | 24g | 20g | 15g |
+| Olivenolie | 12g | 10g | 7g |
 
 ## Tørre ingredienser
 
-| Ingrediens | 750g | 500g |
-|-----------|------|------|
-| Hvedemel | 350g | 225g |
-| Finvalsede havregryn | 120g | 80g |
-| Brun farin | 20g | 20g |
-| Salt | 1 tsk | 1 tsk |
-| Gær | 1½ tsk | 1½ tsk |
-| Evt. Hørfrø | 20g | 15g |
+| Ingrediens | 900g | 750g | 500g |
+|-----------|------|------|------|
+| Hvedemel | 420g | 350g | 225g |
+| Finvalsede havregryn | 144g | 120g | 80g |
+| Brun farin | 20g | 20g | 20g |
+| Salt | 1 tsk | 1 tsk | 1 tsk |
+| Gær | 1½ tsk | 1½ tsk | 1½ tsk |
+| Evt. Hørfrø | 24g | 20g | 15g |

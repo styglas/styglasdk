@@ -2,7 +2,7 @@
 layout: default
 title: Pulled pork rub
 parent: Opskrifter
-nav_order: 11
+nav_order: 9
 ---
 
 ## Ingredienser

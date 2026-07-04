@@ -2,7 +2,7 @@
 layout: default
 title: Béarnaise essens
 parent: Opskrifter
-nav_order: 3
+nav_order: 2
 ---
 
 ## Ingredienser

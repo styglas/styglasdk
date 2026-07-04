@@ -2,7 +2,7 @@
 layout: default
 title: Kartoffelbrød III
 parent: Opskrifter
-nav_order: 12
+nav_order: 7
 ---
 
 ## Konfiguration

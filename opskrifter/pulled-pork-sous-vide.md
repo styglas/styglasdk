@@ -2,7 +2,7 @@
 layout: default
 title: Pulled Pork
 parent: Opskrifter
-nav_order: 4
+nav_order: 8
 ---
 
 ## Ingredienser

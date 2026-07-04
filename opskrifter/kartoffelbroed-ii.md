@@ -18,7 +18,7 @@ nav_order: 8
 |-----------|------|------|
 | Vand eller mælk | 260ml | 170ml |
 | Æg | 1 stk. | 1 stk. |
-| Olie | 20g | 25g |
+| Olie | 25g | 20g |
 | Kartoffelmospulver | 40g | 27g |
 | Vand | 80g | 56g |
 

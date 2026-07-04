@@ -15,15 +15,7 @@ nav_order: 4
 
 ### Rub
 
-| Mængde | Ingrediens |
-|--------|-----------|
-| 2 spsk | Røget paprika |
-| 1 spsk | Spidskommen |
-| 1 spsk | Hvidløgspulver |
-| 1 spsk | Brunt sukker |
-| 1 tsk | Salt |
-| 1 tsk | Sort peber |
-| ½ tsk | Cayennepeber |
+Se [Pulled pork rub](pulled-pork-rub).
 
 ## Tilbehør
 

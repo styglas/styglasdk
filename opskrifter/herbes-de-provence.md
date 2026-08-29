@@ -11,12 +11,10 @@ nav_order: 11
 
 | Mængde | Ingrediens |
 |--------|-----------|
-| 2 spsk | Timian (tørret) |
-| 2 spsk | Merian (tørret) |
-| 1 spsk | Rosmarin (tørret, finthakket) |
-| 1 spsk | Oregano (tørret) |
-| 1 tsk | Lavendel (tørret, kulinarisk) |
-| 1 tsk | Sar (tørret) |
+| 19 g | Timian (tørret) |
+| 27 g | Rosmarin (tørret) |
+| 27 g | Sar (tørret) |
+| 27 g | Oregano (tørret) |
 
 ## Fremgangsmåde
 

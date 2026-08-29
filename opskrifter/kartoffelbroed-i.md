@@ -2,7 +2,7 @@
 layout: default
 title: Kartoffelbrød I
 parent: Opskrifter
-nav_order: 5
+nav_order: 7
 ---
 
 ## Konfiguration
@@ -18,7 +18,7 @@ nav_order: 5
 |-----------|------|------|
 | Vand eller mælk | 260ml | 170ml |
 | Æg | 1 stk. | 1 stk. |
-| Olie | 25g | 20g |
+| Olie | 20g | 25g |
 | Kogte, mosede kartofler | 120g | 80g |
 
 ## Tørre ingredienser

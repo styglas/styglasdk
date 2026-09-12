@@ -2,7 +2,7 @@
 layout: default
 title: Herbes de Provence
 parent: Opskrifter
-nav_order: 11
+nav_order: 5
 ---
 
 # Herbes de Provence

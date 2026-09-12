@@ -2,7 +2,7 @@
 layout: default
 title: Ris
 parent: Opskrifter
-nav_order: 10
+nav_order: 11
 ---
 
 ## Mål og vægt

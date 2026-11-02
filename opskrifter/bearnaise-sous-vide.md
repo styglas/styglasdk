@@ -9,9 +9,9 @@ nav_order: 1
 
 | Mængde | Ingrediens |
 |--------|-----------|
-| 2 | Æggeblommer |
+| 2 (ca. 40 g) | Æggeblommer |
 | 200 g | Smør |
-| 2 spsk | [Béarnaise essens](bearnaise-essens) evt.  [færdiglavet](https://www.google.com/search?q=beavais+bernaise+essens) |
+| 2 spsk (ca. 10 g) | [Béarnaise essens](bearnaise-essens) evt.  [færdiglavet](https://www.google.com/search?q=beavais+bernaise+essens) |
 | 2 spsk | Tørret estragon eller 4 spsk frisk |
 
 ## Tid og temperatur

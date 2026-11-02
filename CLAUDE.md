@@ -20,7 +20,7 @@ CNAME                     # styglas.dk
 _config.yml               # Jekyll + just-the-docs config
 Gemfile                   # gem "just-the-docs"
 Gemfile.lock              # locked gem versions
-Dockerfile                # local preview image (ruby:3.3)
+Dockerfile                # local preview image (ruby:3.4)
 docker-compose.yml        # local preview server
 .github/workflows/
   pages-deploy.yml        # Build & deploy workflow

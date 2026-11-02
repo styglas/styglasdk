@@ -24,6 +24,7 @@ Dockerfile                # local preview image (ruby:3.3)
 docker-compose.yml        # local preview server
 .github/workflows/
   pages-deploy.yml        # Build & deploy workflow
+  pr-build.yml            # Build-only check on pull requests (no deploy)
 ```
 
 ## Adding a recipe

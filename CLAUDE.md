@@ -91,6 +91,7 @@ If only one size is supported, use a single column and note the restriction in b
 - **No BS** — ingredients, time, temperature, steps only. No intro text or backstory.
 - **Measurements**: metric (g, ml, dl) or spoons (tsk = teaspoon, spsk = tablespoon)
 - **Tables need a blank line** before them when following a heading (Kramdown requirement)
+- Add a dated entry to docs/DEVLOG.md for each piece of work.
 - `nav_order` controls sidebar order within a section — set sequentially
 - **Link texts must match the target page's `title:`** exactly
 - **Filenames**: use ASCII — replace æ→ae, ø→oe, å→aa (e.g. `kartoffelbroed.md`, `aeg.md`)

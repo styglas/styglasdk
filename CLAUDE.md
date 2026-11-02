@@ -116,3 +116,7 @@ docker compose up
 ```
 
 Open http://localhost:4000. Edits to `.md` files are picked up automatically — the browser reloads via livereload. `Ctrl+C` to stop.
+
+## Implementation log
+
+Add a dated entry to docs/DEVLOG.md for each piece of work.

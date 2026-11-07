@@ -28,3 +28,10 @@
 - **Decisions:** The user chose Ruby 3.4 (option 1), and 4.0 waits until Jekyll states support for it. A plain `bundle update --bundler` wrote `4.1.0.beta3`, the newest Bundler on rubygems and a prerelease. I pinned `--bundler=2.6.9` instead, the version that ships with ruby:3.4 (3.4.12), which is what the acceptance criterion asks for. setup-ruby's `bundler-cache` then installs the same Bundler in CI.
 - **Verified:** Baseline `jekyll build` on ruby:3.3 passed. On ruby:3.4.12 with Bundler 2.6.9, `docker compose build` installs every gem, including the native gems eventmachine 1.2.7, ffi 1.17.4, google-protobuf 4.36.2 and sass-embedded 1.107.1. `jekyll build` passed. `docker compose up` served `/`, `/opskrifter/`, `/opskrifter/kartoffelbroed-i.html`, `/opskrifter/pulled-pork-sous-vide.html` and the theme CSS/JS with HTTP 200.
 - **Bugs found:** None.
+
+## 2026-11-07 — #14: sass-embedded 1.107.1 → 1.108.1
+
+- **Built:** `bundle update --conservative sass-embedded` in a `ruby:3.4` container. The only change in `Gemfile.lock` is sass-embedded 1.107.1 → 1.108.1 (x86_64-linux-gnu). google-protobuf, json 2.21.2, rouge 4.7.0, Ruby 3.4 and Bundler 2.6.9 are unchanged.
+- **Decisions:** Used `--conservative` limited to sass-embedded so no other gems move. json 3.x and rouge 5.x stay held back by Jekyll 4.4.1 (`json ~> 2.6`, `rouge < 5`).
+- **Verified:** In `ruby:3.4` (Bundler 2.6.9): `jekyll build` passed on the old lockfile (baseline), and again after the update. The build prints the existing just-the-docs Sass deprecation warnings (`darken()` etc.), same as before. CI: `pr-build.yml` on the PR.
+- **Bugs found:** None.
